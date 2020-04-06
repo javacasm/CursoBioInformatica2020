@@ -1,13 +1,16 @@
 # Tarea 2/3
 """
-Ejemplo de uso de listas, entrada de datos del usuario
-Codigo para gestión de las notas de un cole
-Se piden primero los nombres de los alumnos (nombre vacío para terminar)
-Se piden después las asignaturas (asignatura vacía para terminar)
-Después se piden las notas
+ Ejemplo de uso de listas, entrada de datos del usuario
+ Codigo para gestión de las notas de un cole
+ Se piden primero los nombres de los alumnos (nombre vacío para terminar)
+ Se piden después las asignaturas (asignatura vacía para terminar)
+ Después se piden las notas
 
-License CC by SA
-by @javacasm
+ License CC by SA
+ by @javacasm
+
+ 6/4/2020
+
 """
 
 def cargaLista(categoria):
