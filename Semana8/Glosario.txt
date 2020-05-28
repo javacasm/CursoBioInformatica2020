@@ -1,0 +1,13 @@
+Polimerasa: encima que ¿facilita?¿hace? la replicación
+
+Vectores virales
+
+Origen de replicación: (ori) origen de replicación, parte por la que la polimerasa empieza a copiar
+
+nucleótido
+
+DnaA; proteina que es una parte donde se engancha DnaBox
+
+DNABox: zona donde se engancha
+
+Las secuencias que se repiten sno los k-mer (kámeros)
